@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer components {
+  .align-element {
+    @apply px-8 mx-auto max-w-7xl;
+  }
+}
